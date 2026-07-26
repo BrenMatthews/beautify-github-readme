@@ -144,6 +144,10 @@ $beautify-github-readme を使い、この README の明確さ、階層、信頼
 
 README 全体モードでは、ローカルプレビュー、ビジュアルアセット、README の差分を提供します。アセットのみモードでは、ソースアセット、レンダリング済みプレビュー、任意の GIF 派生物、埋め込みスニペットを提供します。コミット、プッシュ、PR、公開には必ず明示的な承認が必要です。
 
+<p align="center">
+  <a href="https://x.com/I_am_oil_oil"><img src="./assets/readme/follow-on-x.svg" width="420" alt="X で作者 @I_am_oil_oil をフォロー"></a>
+</p>
+
 MIT License
 
 ---

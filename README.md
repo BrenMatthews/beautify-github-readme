@@ -144,6 +144,10 @@ Use $beautify-github-readme to audit this README for clarity, hierarchy, trust, 
 
 Whole-README mode delivers a local preview, visual assets, and a README diff. Asset-only mode delivers source assets, rendered previews, optional GIF derivatives, and embed snippets. Commits, pushes, PRs, and publishing always require explicit authorization.
 
+<p align="center">
+  <a href="https://x.com/I_am_oil_oil"><img src="./assets/readme/follow-on-x.svg" width="420" alt="Follow the maker on X at @I_am_oil_oil"></a>
+</p>
+
 MIT License
 
 ---
